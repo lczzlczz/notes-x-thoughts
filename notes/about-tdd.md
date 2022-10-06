@@ -2,7 +2,7 @@
 
 > Test Driven Development(TDD) is a technique that comprises of three engineering techniques.
 
-> Design first, writing tests and then refactor with codes
+> Design first, writing tests and then refactor codes
 
 1. Design
    1. Software Design Principles
